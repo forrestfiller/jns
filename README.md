@@ -1,4 +1,4 @@
-# My edits and steps as i follow along:
+## Oh man does this install take a long time...sigh...
 
 # Jupyter Notebook Server on Raspberry PI 2 and 3
 
